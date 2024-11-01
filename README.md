@@ -15,3 +15,22 @@ This script provides a comprehensive solution for updating Python packages using
 1. Ensure you have both `uv` and `pip` installed in your Python environment.
 2. Save the script as `comprehensive_update.py` in your project directory.
 3. Run the script using Python:
+
+## Requirements
+
+- Python 3.x
+- uv
+- pip
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- Hans HL Hendrickx MD PhD for the initial idea and development
+- v0 AI assistant for code suggestions and improvements
